@@ -3,8 +3,8 @@
 ### A Serbo-Croatian hover dictionary. It's a modified version of Yomichan that works with Serbian and Croatian.
 
 #### Examples:
-![example-1](https://github.com/seth-js/yomichan-sr-hr/assets/83692925/94474427-f8b5-465a-bc4e-7c694c57bc66)
-![example-2](https://github.com/seth-js/yomichan-sr-hr/assets/83692925/38da2ad1-8912-40c1-85c6-90177e83b8bb)
+![example-1](https://github.com/seth-js/yomichan-sr-hr/assets/83692925/104599c8-0f80-40a7-9a46-10ac2f7d13d7)
+![example-2](https://github.com/seth-js/yomichan-sr-hr/assets/83692925/2f4fea5e-9935-4d74-a28a-70e7590d91f3)
 
 ### Instructions (firefox)
 1. Download the repository, clone it, whatever.
